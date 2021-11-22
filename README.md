@@ -14,10 +14,13 @@
 * Decision Tree training
 * Random forest training
 
-## Prediction:
+## Prediction
 ![alt text](https://github.com/gautam7250/Fraud_Transcation_Detection/blob/master/Predictions.PNG)
 ![alt text](https://github.com/gautam7250/Fraud_Transcation_Detection/blob/master/6.PNG)
 
+
+## Verify
+<a href = "https://s3.ap-south-1.amazonaws.com/internship.ineuron.ai/certificates/48950024-aec3-482a-be02-6041e7b3167b.pdf">Certificate</a>
 
 
 
