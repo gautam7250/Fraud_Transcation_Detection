@@ -15,7 +15,7 @@
 * Random forest training
 
 ## Prediction:
-
+![alt text](https://github.com/gautam7250/Fraud_Transcation_Detection/blob/master/Predictions.PNG)
 
 
 
