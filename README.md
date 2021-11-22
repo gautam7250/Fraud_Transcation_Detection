@@ -16,6 +16,7 @@
 
 ## Prediction:
 ![alt text](https://github.com/gautam7250/Fraud_Transcation_Detection/blob/master/Predictions.PNG)
+![alt text](https://github.com/gautam7250/Fraud_Transcation_Detection/blob/master/6.PNG)
 
 
 
